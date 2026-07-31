@@ -140,6 +140,7 @@ nav ul li a:hover{
     line-height:1.8;
 }
 
+
 .buttons{
     margin-top:30px;
 }
@@ -274,7 +275,20 @@ footer{
     flex-direction:column-reverse;
     text-align:center;
 }
+@media (max-width:600px){
 
+    .buttons{
+        flex-direction:column;
+        width:100%;
+    }
+
+    .btn,
+    .btn2{
+        width:100%;
+        text-align:center;
+    }
+
+}
 .hero h2{
     font-size:2.8rem;
 }
