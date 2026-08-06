@@ -486,6 +486,9 @@ nav ul{
 .fa-whatsapp{
     color:#25D366;
 }
+.social-icons a:hover .fa-linkedin-in{
+    color:#0A66C2;
+}
 
 
 @media (max-width:768px){
