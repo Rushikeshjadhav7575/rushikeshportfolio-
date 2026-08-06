@@ -554,3 +554,15 @@ nav ul{
 .social-icons a:hover .fa-linkedin-in{
     color:#0A66C2;
 }
+.fa-linkedin{
+    color:#0A66C2;
+}
+
+.contact-info a{
+    color:white;
+    text-decoration:none;
+}
+
+.contact-info a:hover{
+    color:#00e5ff;
+}
