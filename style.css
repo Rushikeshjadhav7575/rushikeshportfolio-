@@ -519,3 +519,28 @@ nav ul{
     font-size:1.2rem;
 }
 }
+
+
+
+.buttons{
+    display:flex !important;
+    flex-direction:column !important;
+    gap:18px !important;
+    align-items:center !important;
+}
+
+.btn,
+.btn2{
+    width:280px !important;
+    height:58px !important;
+    display:flex !important;
+    justify-content:center !important;
+    align-items:center !important;
+    margin:0 !important;
+    position:static !important;
+    transform:none !important;
+}
+
+.btn2{
+    margin-top:0 !important;
+}
