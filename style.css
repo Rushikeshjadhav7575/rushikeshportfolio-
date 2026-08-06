@@ -547,3 +547,10 @@ nav ul{
 .btn2{
     margin-top:0 !important;
 }
+.fa-linkedin-in{
+    color:#0A66C2;
+}
+
+.social-icons a:hover .fa-linkedin-in{
+    color:#0A66C2;
+}
