@@ -566,3 +566,33 @@ nav ul{
 .contact-info a:hover{
     color:#00e5ff;
 }
+/* Project Buttons */
+
+.project-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+
+    margin-top: 20px;
+    padding: 12px 22px;
+
+    background: #00e5ff;
+    color: #000;
+
+    text-decoration: none;
+    font-weight: 600;
+
+    border-radius: 30px;
+
+    transition: 0.3s ease;
+}
+
+.project-btn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 20px #00e5ff;
+}
+
+.project-btn i {
+    font-size: 16px;
+}
